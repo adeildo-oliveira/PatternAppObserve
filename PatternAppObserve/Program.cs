@@ -16,7 +16,7 @@ namespace PatternAppObserve
                 .AdicionaAcoes(new ExibeDadosCliente())
                 .ConstroiCliente();
 
-            Console.ReadKey();
+            //Console.ReadKey();
         }
     }
 }
